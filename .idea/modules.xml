@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Les8_work2/Les8_work2.iml" filepath="$PROJECT_DIR$/Les8_work2/Les8_work2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Les8_work3/Les8_work3.iml" filepath="$PROJECT_DIR$/Les8_work3/Les8_work3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Les8_work4/Les8_work4.iml" filepath="$PROJECT_DIR$/Les8_work4/Les8_work4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Les8_work5/Les8_work5.iml" filepath="$PROJECT_DIR$/Les8_work5/Les8_work5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_Essential_8.iml" filepath="$PROJECT_DIR$/.idea/OOP_Essential_8.iml" />
+    </modules>
+  </component>
+</project>
